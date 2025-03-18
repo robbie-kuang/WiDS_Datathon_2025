@@ -8,5 +8,3 @@ By Robbie, Jac, and Noe
 
 'submission.csv' - Current submission
 
-'widsdatathon2025' - Contains all the train and test data files
-
