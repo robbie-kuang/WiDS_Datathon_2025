@@ -9,6 +9,7 @@ By Robbie, Jac, and Noe
 - [Project Overview](#project-overview)
 - [Data](#data)
 - [Installation](#installation)
+- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
@@ -36,6 +37,9 @@ You can easily install them with:
 ```bash
 pip install -r requirements.txt
 ```
+## License
+
+This project is licensed under the **MIT License**.
 
 ## Contact 
 For any inquiries, please contact robbie.y.kuang@gmail.com.
