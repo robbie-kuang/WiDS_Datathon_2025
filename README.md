@@ -31,5 +31,11 @@ Make sure you have the following dependencies installed:
 - Python 3.x
 - Required Python libraries (listed in `requirements.txt`)
 
+You can easily install them with:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Contact 
 For any inquiries, please contact robbie.y.kuang@gmail.com.
